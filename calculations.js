@@ -36,7 +36,7 @@ function decrementValue(x) {
 
 console.log(increaseBalance(3000, 700));
 console.log(decreaseBalance(3000, 700));
-console.log(divideBalanceByAccounts(3000, 2, 4000));
+console.log(divideBalanceByAccounts(3000, 2));
 console.log(getRestAfterDivision(7000, 3));
 console.log(incrementValue(234));
 console.log(decrementValue(456));
